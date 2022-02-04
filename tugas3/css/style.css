@@ -1,0 +1,25 @@
+*{
+    color: rgb(44, 44, 44);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    padding: 50px;
+}
+.container, button{
+    margin-bottom: 10px;
+}
+button:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+
+}
+
+table{
+    border-collapse: collapse;
+    overflow-x: auto;
+    text-align: center;
+}
+table, tr, td{
+    padding: 10px;
+}
